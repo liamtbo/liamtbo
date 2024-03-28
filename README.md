@@ -1,8 +1,8 @@
 
-# ![giphy](https://github.com/liamtbo/liamtbo/assets/86570661/00431506-274d-4d59-9114-e8d29f02d8c4)
 
 
 <!--
+![giphy](https://github.com/liamtbo/liamtbo/assets/86570661/00431506-274d-4d59-9114-e8d29f02d8c4)
 **liamtbo/liamtbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
