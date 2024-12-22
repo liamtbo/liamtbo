@@ -1,6 +1,6 @@
 # 🦾 Welcome to the Cybernetic Matrix, I'm [Your Name] 🔮
 
-👾 **CS Major** | **University of Oregon** | **Graduating in 2023**
+👾 **CS Major** | **University of Oregon** | **Graduating in 2025**
 
 👨‍💻 Code Warrior navigating through the digital world of **Autonomous Systems**, **Reinforcement Learning**, and **Drones**. My mind is wired into **Machine Learning**, **Computer Networks**, and **Multi-Agent Systems**. I specialize in creating **AI-driven solutions**, **network protocols**, and **autonomous tech** that make our world just a little bit smarter.
 
