@@ -12,16 +12,16 @@
 
 ## 💥 Featured Projects
 
-### 🚀 [Deep Q-Network Lunar Landing (Python)](https://github.com/yourusername/dqn-lunar-landing)
+### 🚀 [Deep Q-Network Lunar Landing (Python)](https://github.com/liamtbo/lunar_landing_dqn)
 Built a **Deep Q-Network (DQN)** to control an autonomous spacecraft navigating the **Lunar Lander** simulation. The mission—using optimized neural networks to guide a spacecraft safely through the vast, hostile environment of space.
 
-### 🤖 [CNN Image Classification of Drones, Tanks, and Jets (Python)](https://github.com/yourusername/cnn-image-classification)
+### 🤖 [CNN Image Classification of Drones, Tanks, and Jets (Python)](https://github.com/liamtbo/military_classification_cnn)
 Developed a **Convolutional Neural Network (CNN)** to classify **drones**, **tanks**, and **jets**, enabling precise target identification with deep learning models that function like radar systems in the digital world.
 
-### 💳 [Multithreaded Banking System (C)](https://github.com/yourusername/multithreaded-banking)
+### 💳 [Multithreaded Banking System (C)](https://github.com/liamtbo/multithreaded_banking)
 Designed and implemented a **multithreaded** banking system in **C**, ensuring secure, synchronized transactions while maintaining system integrity across a virtual network. Focused on low-latency, high-frequency performance.
 
-### 🔐 [Encryption Program (C++)](https://github.com/yourusername/encryption-cpp)
+### 🔐 [Encryption Program (C++)](https://github.com/liamtbo/encryption)
 Created robust **cryptographic algorithms** (Substitution, Caesar, ROT13, Running Key, and Vigenère) in **C++**, encrypting data with precision and security, building an impenetrable digital fortress for sensitive information.
 
 ## 🌐 My Interests
@@ -33,9 +33,8 @@ Created robust **cryptographic algorithms** (Substitution, Caesar, ROT13, Runnin
 
 ## 🔮 Currently Creating
 
-- **Advanced RL Algorithms**: Fine-tuning **PPO** and **A3C** to build smarter, faster, and more autonomous systems. 🧬
-- **Network Security**: Strengthening defenses against threats in the cyber world. 🔒
-- **Autonomous Robotics**: Shaping the future of intelligent systems capable of learning, navigating, and adapting autonomously. 💡
+- **Building a Drone**: Designing and constructing an autonomous drone capable of performing complex tasks. 🚁
+- **Network Security**: Deepening my understanding of **network security**, learning to hack and defend networks to safeguard digital assets. 🔒
 
 ## 📡 Connect With Me!
 [LinkedIn](www.linkedin.com/in/liam-bouffard)
