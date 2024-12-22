@@ -1,4 +1,4 @@
-# 🦾 Welcome to the Cybernetic Matrix, I'm Liam 🔮
+# 🦾 Welcome to my Github, I'm Liam 🔮
 
 👾 **CS Major** | **University of Oregon** | **Graduating in 2025**
 
@@ -6,9 +6,9 @@
 
 ## ⚡ Current Status
 
-- **System Offline**: Launching autonomous agents for **Lunar Navigation** 🌑
-- **Dataflow**: Optimizing the future of **multi-agent reinforcement learning** 🤖
-- **Code on Fire**: Merging drones, **AI systems**, and **cybersecurity** to protect the digital frontier 🔥
+- 🌑 Launching autonomous agents for **Lunar Navigation**
+- 🤖 Optimizing the future of **multi-agent reinforcement learning**
+- 🔥 Merging drones, **AI systems**, and **cybersecurity** to protect the digital frontier
 
 ## 💥 Featured Projects
 
@@ -26,7 +26,7 @@ Created robust **cryptographic algorithms** (Substitution, Caesar, ROT13, Runnin
 
 ## 🌐 My Interests
 
-- **Cyber Networks**: Developing secure networks, cracking encryption protocols, and understanding the pulse of the digital world. 🕵️‍♂️
+- **Cyber Networks**: Developing secure networks, cracking encryption protocols, and understanding the digital world. 🕵️‍♂️
 - **Reinforcement Learning**: Pushing the boundaries of **AI agents** to adapt, optimize, and succeed in complex environments. 🤖
 - **Autonomous Systems & Drones**: Creating self-sufficient systems that operate independently, paving the way for a future run by machines. 🚁
 - **Multi-Agent Reinforcement Learning (MARL)**: Designing AI agents that cooperate and compete, evolving strategies like a collective digital intelligence. 🧠
@@ -34,13 +34,13 @@ Created robust **cryptographic algorithms** (Substitution, Caesar, ROT13, Runnin
 ## 🔮 Currently Creating
 
 - **Advanced RL Algorithms**: Fine-tuning **PPO** and **A3C** to build smarter, faster, and more autonomous systems. 🧬
-- **Network Security**: Strengthening defenses against threats in a world where data reigns supreme. 🔒
+- **Network Security**: Strengthening defenses against threats in the cyber world. 🔒
 - **Autonomous Robotics**: Shaping the future of intelligent systems capable of learning, navigating, and adapting autonomously. 💡
 
 ## 📡 Connect With Me!
 [LinkedIn](www.linkedin.com/in/liam-bouffard)
 
-💻 Find me exploring **GitHub** or reach out through **email** (mailto:your.email@example.com). Always open to collaboration and deep tech discussions.
+💻 Find me exploring **GitHub** or reach out through **liamtbo@gmail.com**. Always open to collaboration and deep tech discussions.
 
 ## 🎮 Let's Build the Future Together
 
