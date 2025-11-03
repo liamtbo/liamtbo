@@ -1,4 +1,4 @@
-# 🦾 Welcome to My GitHub – I'm Liam 🔮  
+# Welcome to My GitHub – I'm Liam  
 
 **B.S. in Computer Science]** | **University of Oregon** | **Graduating in 2025**  
 **Masters in Robotics** | **Oregon State University** | **Graduating in 2027**  
