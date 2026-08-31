@@ -10,5 +10,3 @@ I'm currently a Masters student in robotics at Oregon State University studying 
 [LinkedIn](https://www.linkedin.com/in/liam-bouffard/)  
 
 ---
-
-⚡ ⚡
